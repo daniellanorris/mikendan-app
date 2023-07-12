@@ -1,0 +1,21 @@
+.bg {
+    background-color: pink;
+    color: grey;
+    font-family:'Courier New', Courier, monospace;
+    position: absolute;
+    bottom: 0;
+    width: 100vw;
+    
+
+}
+
+button {
+    background-color: white;
+    border: inset solid rgb(109, 102, 102);
+
+}
+
+button:hover {
+    border: inset solid white;
+
+}

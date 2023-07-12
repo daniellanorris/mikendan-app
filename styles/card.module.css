@@ -1,0 +1,16 @@
+.card.notClicked {
+    width: 300px;
+    height: auto;
+    background-color: white;
+    border: outset solid rgb(83, 42, 42);
+    border-radius: 50px;
+    margin: 10px;
+  }
+  
+  .card.clicked {
+    width: 300px;
+    height: auto;
+    border: 10px solid rgb(83, 42, 42);
+    border-radius: 50px;
+    margin: 10px;
+  }

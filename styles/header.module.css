@@ -1,0 +1,19 @@
+.bg {
+    background-color: transparent;
+    border-bottom: solid black ; 
+    position: sticky;
+}
+
+button {
+    border: outset 3px solid;
+    border-color: #d4dcc8 #d4dcc8 #d4dcc8 #d4dcc8;
+    padding: 5px;
+    border-radius: 5px;
+
+}
+
+button:hover {
+    border: inset 3px solid !important ;
+    border-color: #d4dcc8 #d4dcc8 #d4dcc8 #d4dcc8;
+    padding: 5px;
+}
